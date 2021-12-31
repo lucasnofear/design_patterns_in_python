@@ -18,4 +18,6 @@ the professional looking icons.
 
 ## Design Patterns has implemented ..
 
-* 
+### Creational Patterns
+- [x] factory
+- [x] abstract factory
