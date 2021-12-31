@@ -11,10 +11,6 @@ This is the source code for my practice of design patterns in Python, based on S
 * Python
 * Design Patterns
 
-## Overview
-
-This simple portfolio site uses CSS flexbox, grid, semantic HTML, and responsive design. Also use google fonts for the interesting fonts and font awesome for 
-the professional looking icons.
 
 ## Design Patterns has implemented ..
 
