@@ -11,9 +11,41 @@ This is the source code for my practice of design patterns in Python, based on S
 * Python
 * Design Patterns
 
+## Overview
+
+All 23 design patterns in the original GANG of Four will be practiced. The list below shows the implementation details and progress. 
 
 ## Design Patterns has implemented ..
 
 ### Creational Patterns
-- [x] factory
-- [x] abstract factory
+- [x] Factory
+- [x] Abstract Factory
+- [ ] Builder
+- [ ] Prototype
+- [ ] Singleton
+
+----------------------
+
+### Structural Patterns
+- [ ] Decorator
+- [ ] Adapter
+- [ ] Facade
+- [ ] Bridge
+- [ ] Composite
+- [ ] Flyweight
+- [ ] Proxy
+
+----------------------
+
+### Behavioural Patterns
+- [ ] Command
+- [ ] Chain of Responsibility
+- [ ] Observer
+- [ ] Interpreter
+- [ ] Iterator
+- [ ] Mediator
+- [ ] Memento
+- [ ] State
+- [ ] Strategy
+- [ ] Template
+- [ ] Visitor
