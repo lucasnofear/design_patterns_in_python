@@ -43,7 +43,8 @@ class ChairFactory:
         return None 
 
 if __name__ == "__main__":
-    # notice the Table Factory is not implemented and the Chair Factory is from the factory.py (an example of factory pattern)
+    # notice the Table Factory is not implemented but it will be exact the same as the Chair Factory
+    # and the Chair Factory is from the factory.py (an example of factory pattern)
     furniture = FurnitureFactory.get_furniture("SmallChair")
     print(f"{furniture.__class__} : {furniture.get_dimensions()}")
 
