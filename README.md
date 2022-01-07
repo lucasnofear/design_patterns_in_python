@@ -20,9 +20,9 @@ All 23 design patterns in the original GANG of Four will be practiced. The list 
 ### Creational Patterns
 - [x] Factory
 - [x] Abstract Factory
-- [ ] Builder
-- [ ] Prototype
-- [ ] Singleton
+- [x] Builder
+- [x] Prototype
+- [x] Singleton: two naive versions and one thread-safe version.
 
 ----------------------
 
