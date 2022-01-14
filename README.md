@@ -28,9 +28,9 @@ All 23 design patterns in the original GANG of Four will be practiced. The list 
 
 ### Structural Patterns
 - [ ] Decorator
-- [ ] Adapter
+- [x] Adapter: inheritance version and composition version.
 - [ ] Facade
-- [ ] Bridge
+- [x] Bridge
 - [ ] Composite
 - [ ] Flyweight
 - [ ] Proxy
@@ -40,12 +40,12 @@ All 23 design patterns in the original GANG of Four will be practiced. The list 
 ### Behavioural Patterns
 - [ ] Command
 - [ ] Chain of Responsibility
-- [ ] Observer
+- [x] Observer
 - [ ] Interpreter
 - [ ] Iterator
 - [ ] Mediator
 - [ ] Memento
 - [ ] State
-- [ ] Strategy
+- [x] Strategy
 - [ ] Template
 - [ ] Visitor
